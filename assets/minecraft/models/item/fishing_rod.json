@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/fishing_rod"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 0},"model": "better_rods:item/white_fishing_rod"},
+    {"predicate": {"custom_model_data": 0, "cast": 1},"model": "better_rods:item/white_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 1},"model": "better_rods:item/light_gray_fishing_rod"},
+    {"predicate": {"custom_model_data": 1, "cast": 1},"model": "better_rods:item/light_gray_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 2},"model": "better_rods:item/gray_fishing_rod"},
+    {"predicate": {"custom_model_data": 2, "cast": 1},"model": "better_rods:item/gray_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 3},"model": "better_rods:item/black_fishing_rod"},
+    {"predicate": {"custom_model_data": 3, "cast": 1},"model": "better_rods:item/black_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 4},"model": "better_rods:item/brown_fishing_rod"},
+    {"predicate": {"custom_model_data": 4, "cast": 1},"model": "better_rods:item/brown_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 5},"model": "better_rods:item/red_fishing_rod"},
+    {"predicate": {"custom_model_data": 5, "cast": 1},"model": "better_rods:item/red_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 6},"model": "better_rods:item/orange_fishing_rod"},
+    {"predicate": {"custom_model_data": 6, "cast": 1},"model": "better_rods:item/orange_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 7},"model": "better_rods:item/yellow_fishing_rod"},
+    {"predicate": {"custom_model_data": 7, "cast": 1},"model": "better_rods:item/yellow_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 8},"model": "better_rods:item/lime_fishing_rod"},
+    {"predicate": {"custom_model_data": 8, "cast": 1},"model": "better_rods:item/lime_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 9},"model": "better_rods:item/green_fishing_rod"},
+    {"predicate": {"custom_model_data": 9, "cast": 1},"model": "better_rods:item/green_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 10},"model": "better_rods:item/cyan_fishing_rod"},
+    {"predicate": {"custom_model_data": 10, "cast": 1},"model": "better_rods:item/cyan_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 11},"model": "better_rods:item/light_blue_fishing_rod"},
+    {"predicate": {"custom_model_data": 11, "cast": 1},"model": "better_rods:item/light_blue_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 12},"model": "better_rods:item/blue_fishing_rod"},
+    {"predicate": {"custom_model_data": 12, "cast": 1},"model": "better_rods:item/blue_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 13},"model": "better_rods:item/purple_fishing_rod"},
+    {"predicate": {"custom_model_data": 13, "cast": 1},"model": "better_rods:item/purple_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 14},"model": "better_rods:item/magenta_fishing_rod"},
+    {"predicate": {"custom_model_data": 14, "cast": 1},"model": "better_rods:item/magenta_fishing_rod_cast"},
+    {"predicate": {"custom_model_data": 15},"model": "better_rods:item/pink_fishing_rod"},
+    {"predicate": {"custom_model_data": 15, "cast": 1},"model": "better_rods:item/pink_fishing_rod_cast"}
+  ]
+}

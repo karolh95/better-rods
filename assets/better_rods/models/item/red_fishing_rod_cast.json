@@ -1,0 +1,6 @@
+{
+  "parent": "item/fishing_rod",
+  "textures": {
+    "layer0": "better_rods:item/red_fishing_rod_cast"
+  }
+}
